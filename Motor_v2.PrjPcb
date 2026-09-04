@@ -101,6 +101,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Motor_v2\BOM\Bill of Materials-Motor_v2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Motor_v2\Design Rule Check - main_b.html
 DItemRevisionGUID=
 
